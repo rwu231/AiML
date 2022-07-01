@@ -1,8 +1,8 @@
 # TextRecognitionApp
 ml kit firebase android
 
-![alt text](https://github.com/raywu1/AIMachineLearning/blob/main/A1.png)
-![alt text](https://github.com/raywu1/AIMachineLearning/blob/main/a2.png)
+![alt text](https://github.com/rwu231/AiML/blob/main/A1.png)
+![alt text](https://github.com/rwu231/AiML/blob/main/a2.png)
 
 
 I have implemented a text recognition app by using android machine learning(firebase ml kit) which allow
